@@ -2,8 +2,9 @@
 
 using namespace std;
 
-int main ()
+int main()
 {
-  cont << "Hello world!" << endl;
-  return 0;
+    cout << "Hey \tI That is my first programm in C++derf." << endl;
+    return 0;
 }
+
